@@ -1,0 +1,4 @@
+repository "0.0.1@Zuiut12@cloud"
+  path "/"
+    br "/main"
+    co "/main"
